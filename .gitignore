@@ -1,0 +1,37 @@
+# Compiled binaries
+RandomWalk
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Static and shared libraries
+*.a
+*.so
+*.dylib
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Core dumps
+core
+vgcore.*
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+# Other 
+randomWalk_demo.gif
